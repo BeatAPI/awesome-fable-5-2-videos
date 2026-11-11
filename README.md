@@ -1,10 +1,14 @@
+<p align="center"><a href="https://beatapi.io"><img src="./assets/readme-hero.png" alt="Fable 5.2 Video Gallery by BeatAPI" width="100%" /></a></p>
+
 # Awesome Fable 5.2 Videos
 
 Fable 5.2 videos, animations and interactive demos, curated by [BeatAPI](https://beatapi.io).
 
-[Website gallery](https://beatapi.io/fable-5-2-videos) · [API](https://beatapi.io/claude-fable-5-2-api) · [中文](README.zh-CN.md)
+**[BeatAPI home](https://beatapi.io)** · [Website gallery](https://beatapi.io/fable-5-2-videos) · [API](https://beatapi.io/claude-fable-5-2-api) · [中文](README.zh-CN.md)
 
-**40 works** · Click a cover to play; click a creator to open the original post.
+**42 works** · Click a cover to play; click a creator to open the original post.
+
+**[Browse by use case](cases/README.md)**
 
 ## Video gallery
 
@@ -331,7 +335,35 @@ Fable 5.2 videos, animations and interactive demos, curated by [BeatAPI](https:/
 [u/Semantic_meaning](https://www.reddit.com/r/ClaudeCode/comments/1xs4ll7/fable_52_vs_opus_vs_astra_pelican_riding_a/) · [Details](cases/pelican-unicycle-comparison.md)
 
 [Source notes and data](data/videos.json) · [Contribute](CONTRIBUTING.md)
+### 41. Hand-painted browser game
+
+<a href="https://media.beatapi.io/prompt-gallery/fable-5-2/8aad5fe79c65a5078dfe9e334768d1c384dc0123035465e2922d71f726c31807.webm"><img src="https://media.beatapi.io/prompt-gallery/fable-5-2/b041c4f94a26a595b172b946058276584219403c3d0d985180a6ffc0d9255ecc.jpg" alt="Hand-painted browser game" width="700" /></a>
+
+[▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/8aad5fe79c65a5078dfe9e334768d1c384dc0123035465e2922d71f726c31807.webm)
+
+[@BlendiByl](https://x.com/BlendiByl/status/2120341251178594532) · [Details](cases/hand-painted-browser-game.md)
+
+### 42. The tired pelican — a code-made short film
+
+<a href="https://media.beatapi.io/prompt-gallery/fable-5-2/53ea51fe274550506cccea17698429bd05896605acfd0d5fa3fb6b4976f8a480.webm"><img src="https://media.beatapi.io/prompt-gallery/fable-5-2/5dfa0d32ee03bcc4aae37f9806df8df68832d411a83b6720fc84d55520bddab2.jpg" alt="The tired pelican — a code-made short film" width="700" /></a>
+
+[▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/53ea51fe274550506cccea17698429bd05896605acfd0d5fa3fb6b4976f8a480.webm)
+
+[@chetaslua](https://x.com/chetaslua/status/2120438091647218025) · [Details](cases/pelican-short-film.md)
+
 
 ## License
 
 BeatAPI-authored documentation and index structure: [MIT](LICENSE). Third-party videos, music, prompts and assets retain their own rights; they are not covered by this license. Videos are hosted as WebM copies; creator links open the original posts.
+
+Cover artwork is illustrative and is not presented as a model-generated case.
+
+## More galleries
+
+- [Fable 5.2](https://beatapi.io/fable-5-2-videos) · [GitHub](https://github.com/BeatAPI/awesome-fable-5-2-videos)
+- [Seedream 5.5](https://beatapi.io/seedream-5-5-prompts) · [GitHub](https://github.com/BeatAPI/awesome-seedream-5-5-prompts)
+- [GPT Image 2.6](https://beatapi.io/gpt-image-2-6-prompts) · [GitHub](https://github.com/BeatAPI/awesome-gpt-image-2-6-prompts)
+- [MiniMax H3 Image](https://beatapi.io/minimax-h3-image-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts)
+- [MiniMax H3 Video](https://beatapi.io/minimax-h3-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
+
+[BeatAPI home](https://beatapi.io)

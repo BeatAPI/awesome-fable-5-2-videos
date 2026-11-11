@@ -4,7 +4,7 @@
 
 [▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/fa772ba8d7fabccbe8079c8f13a04566cf130d258c2217cb074929ca29ca120c.webm)
 
-[Miguel07Code](https://x.com/Miguel07Code/status/2119904748900167836) · [Watch original video](https://x.com/Miguel07Code/status/2119904748900167836)
+[@Miguel07Code](https://x.com/Miguel07Code/status/2119904748900167836)
 
 A reference clip compared with an editable HyperFrames recreation; the author identifies the reverse-any-video skill.
 
@@ -21,3 +21,5 @@ A reference clip compared with an editable HyperFrames recreation; the author id
 ## Rights
 
 Videos are delivered as WebM copies hosted by BeatAPI. Third-party works retain their own rights; the author link opens the original post.
+
+[Website gallery](https://beatapi.io/fable-5-2-videos) · [BeatAPI home](https://beatapi.io)

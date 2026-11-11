@@ -4,7 +4,7 @@
 
 [▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/2f32101509c86e308cbbf7ee403caef47d71628fe2b63695ebdd7949a1b2454f.webm)
 
-[al_maxgo](https://x.com/al_maxgo/status/2119891197317591040) · [Watch original video](https://x.com/al_maxgo/status/2119891197317591040)
+[@al_maxgo](https://x.com/al_maxgo/status/2119891197317591040)
 
 The author reports a codebase-driven trailer with chart rendering, HTML animation and a synthesized soundtrack.
 
@@ -21,3 +21,5 @@ The author reports a codebase-driven trailer with chart rendering, HTML animatio
 ## Rights
 
 Videos are delivered as WebM copies hosted by BeatAPI. Third-party works retain their own rights; the author link opens the original post.
+
+[Website gallery](https://beatapi.io/fable-5-2-videos) · [BeatAPI home](https://beatapi.io)

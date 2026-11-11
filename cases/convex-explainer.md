@@ -4,7 +4,7 @@
 
 [▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/30fab3095b5bedbdb67c51863c2f03195015b252ef45d542cd4d9af39191c1b8.webm)
 
-[Rasmic](https://x.com/Rasmic/status/2119919466163093768) · [Watch original video](https://x.com/Rasmic/status/2119919466163093768)
+[@Rasmic](https://x.com/Rasmic/status/2119919466163093768)
 
 A motion-graphics introduction to Convex.
 
@@ -21,3 +21,5 @@ A motion-graphics introduction to Convex.
 ## Rights
 
 Videos are delivered as WebM copies hosted by BeatAPI. Third-party works retain their own rights; the author link opens the original post.
+
+[Website gallery](https://beatapi.io/fable-5-2-videos) · [BeatAPI home](https://beatapi.io)

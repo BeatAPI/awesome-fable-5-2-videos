@@ -4,7 +4,7 @@
 
 [▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/4d77c759ab5a9fda9b5256d1b97051d7564a538c1d005cca11a0c3c0053d6fbd.webm)
 
-[MatthewBerman](https://x.com/MatthewBerman/status/2119868633086378471) · [Watch original video](https://x.com/MatthewBerman/status/2119868633086378471)
+[@MatthewBerman](https://x.com/MatthewBerman/status/2119868633086378471)
 
 A motion-graphics explanation of how language models work.
 
@@ -21,3 +21,5 @@ A motion-graphics explanation of how language models work.
 ## Rights
 
 Videos are delivered as WebM copies hosted by BeatAPI. Third-party works retain their own rights; the author link opens the original post.
+
+[Website gallery](https://beatapi.io/fable-5-2-videos) · [BeatAPI home](https://beatapi.io)

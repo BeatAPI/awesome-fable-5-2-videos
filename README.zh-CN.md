@@ -1,10 +1,14 @@
+<p align="center"><a href="https://beatapi.io/zh"><img src="./assets/readme-hero.png" alt="Fable 5.2 Video Gallery by BeatAPI" width="100%" /></a></p>
+
 # Awesome Fable 5.2 Videos
 
-由 [BeatAPI](https://beatapi.io) 整理的 Fable 5.2 视频、动画与交互作品。
+由 [BeatAPI](https://beatapi.io/zh) 整理的 Fable 5.2 视频、动画与交互作品。
 
-[浏览网页](https://beatapi.io/zh/fable-5-2-videos) · [Fable 5.2 API](https://beatapi.io/zh/claude-fable-5-2-api) · [English](README.md)
+**[BeatAPI 首页](https://beatapi.io/zh)** · [浏览网页](https://beatapi.io/zh/fable-5-2-videos) · [Fable 5.2 API](https://beatapi.io/zh/claude-fable-5-2-api) · [English](README.md)
 
-**40 个作品** · 点击封面播放，点击作者查看原帖。
+**42 个作品** · 点击封面播放，点击作者查看原帖。
+
+**[按用途浏览](cases/README.md)**
 
 ## 视频案例
 
@@ -331,7 +335,35 @@
 [u/Semantic_meaning](https://www.reddit.com/r/ClaudeCode/comments/1xs4ll7/fable_52_vs_opus_vs_astra_pelican_riding_a/) · [作品详情](cases/pelican-unicycle-comparison.md)
 
 [收录说明与数据](data/videos.json) · [贡献案例](CONTRIBUTING.md)
+### 41. 手绘风浏览器游戏
+
+<a href="https://media.beatapi.io/prompt-gallery/fable-5-2/8aad5fe79c65a5078dfe9e334768d1c384dc0123035465e2922d71f726c31807.webm"><img src="https://media.beatapi.io/prompt-gallery/fable-5-2/b041c4f94a26a595b172b946058276584219403c3d0d985180a6ffc0d9255ecc.jpg" alt="手绘风浏览器游戏" width="700" /></a>
+
+[▶ 播放视频](https://media.beatapi.io/prompt-gallery/fable-5-2/8aad5fe79c65a5078dfe9e334768d1c384dc0123035465e2922d71f726c31807.webm)
+
+[@BlendiByl](https://x.com/BlendiByl/status/2120341251178594532) · [详情](cases/hand-painted-browser-game.md)
+
+### 42. 疲惫的鹈鹕：代码生成短片
+
+<a href="https://media.beatapi.io/prompt-gallery/fable-5-2/53ea51fe274550506cccea17698429bd05896605acfd0d5fa3fb6b4976f8a480.webm"><img src="https://media.beatapi.io/prompt-gallery/fable-5-2/5dfa0d32ee03bcc4aae37f9806df8df68832d411a83b6720fc84d55520bddab2.jpg" alt="疲惫的鹈鹕：代码生成短片" width="700" /></a>
+
+[▶ 播放视频](https://media.beatapi.io/prompt-gallery/fable-5-2/53ea51fe274550506cccea17698429bd05896605acfd0d5fa3fb6b4976f8a480.webm)
+
+[@chetaslua](https://x.com/chetaslua/status/2120438091647218025) · [详情](cases/pelican-short-film.md)
+
 
 ## 许可
 
 BeatAPI 原创文档采用 [MIT](LICENSE) 许可。视频、音乐和第三方素材的权利归原作者所有，不适用本仓库的 MIT 许可。
+
+封面为示意设计，不作为模型生成案例。
+
+## 更多案例库
+
+- [Fable 5.2](https://beatapi.io/zh/fable-5-2-videos) · [GitHub](https://github.com/BeatAPI/awesome-fable-5-2-videos)
+- [Seedream 5.5](https://beatapi.io/zh/seedream-5-5-prompts) · [GitHub](https://github.com/BeatAPI/awesome-seedream-5-5-prompts)
+- [GPT Image 2.6](https://beatapi.io/zh/gpt-image-2-6-prompts) · [GitHub](https://github.com/BeatAPI/awesome-gpt-image-2-6-prompts)
+- [MiniMax H3 Image](https://beatapi.io/zh/minimax-h3-image-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-image-prompts)
+- [MiniMax H3 Video](https://beatapi.io/zh/minimax-h3-prompts) · [GitHub](https://github.com/BeatAPI/awesome-minimax-h3-prompts)
+
+[BeatAPI 首页](https://beatapi.io/zh)

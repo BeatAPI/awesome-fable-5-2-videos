@@ -18,3 +18,5 @@ One scene in miniature painting, gouache and psychedelic watercolor styles; the 
 - Tools mentioned: Canvas2D.
 - Prompts and project files: see the original post for available instructions; a complete reproducibility package is not verified.
 - WebM copies are hosted by BeatAPI. Third-party media is not covered by this repository’s MIT license.
+
+[Website gallery](https://beatapi.io/fable-5-2-videos) · [BeatAPI home](https://beatapi.io)

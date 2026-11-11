@@ -1476,5 +1476,67 @@
         "height": 720
       }
     ]
+  },
+  {
+    "id": "hand-painted-browser-game",
+    "title": "Hand-painted browser game",
+    "titleZh": "手绘风浏览器游戏",
+    "category": "Game demos",
+    "description": "A browser game rendered with a brush-stroke effect.",
+    "descriptionZh": "以笔触效果渲染的浏览器游戏。",
+    "author": "BlendiByl",
+    "sourceUrl": "https://x.com/BlendiByl/status/2120341251178594532",
+    "model": "Claude Fable 5.2",
+    "modelEvidence": "The creator explicitly names Fable 5.2 in the original post.",
+    "publishedAt": "2026-11-11T02:22:02+00:00",
+    "verifiedOn": "2026-11-11",
+    "verificationMethod": "Original post and video checked through BeatAPI Social Data.",
+    "durationSeconds": 16.068,
+    "tools": [],
+    "prompt": null,
+    "promptStatus": "Full original prompt not supplied",
+    "sourceCodeUrl": null,
+    "mediaPolicy": "BeatAPI-hosted WebM with source attribution. Third-party rights retained.",
+    "sourcePlatform": "X",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/fable-5-2/8aad5fe79c65a5078dfe9e334768d1c384dc0123035465e2922d71f726c31807.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/fable-5-2/b041c4f94a26a595b172b946058276584219403c3d0d985180a6ffc0d9255ecc.jpg",
+        "width": 1280,
+        "height": 720
+      }
+    ]
+  },
+  {
+    "id": "pelican-short-film",
+    "title": "The tired pelican — a code-made short film",
+    "titleZh": "疲惫的鹈鹕：代码生成短片",
+    "category": "Animation",
+    "description": "A painterly pelican film built in one HTML file, with visuals and sound created in code.",
+    "descriptionZh": "用单个 HTML 文件制作的绘画风鹈鹕短片，画面与声音均由代码生成。",
+    "author": "chetaslua",
+    "sourceUrl": "https://x.com/chetaslua/status/2120438091647218025",
+    "model": "Claude Fable 5.2",
+    "modelEvidence": "The creator explicitly names Fable 5.2 in the original post.",
+    "publishedAt": "2026-11-11T08:46:51+00:00",
+    "verifiedOn": "2026-11-11",
+    "verificationMethod": "Original post and video checked through BeatAPI Social Data.",
+    "durationSeconds": 55.67,
+    "tools": [],
+    "prompt": null,
+    "promptStatus": "Full original prompt not supplied",
+    "sourceCodeUrl": null,
+    "mediaPolicy": "BeatAPI-hosted WebM with source attribution. Third-party rights retained.",
+    "sourcePlatform": "X",
+    "media": [
+      {
+        "kind": "video",
+        "url": "https://media.beatapi.io/prompt-gallery/fable-5-2/53ea51fe274550506cccea17698429bd05896605acfd0d5fa3fb6b4976f8a480.webm",
+        "poster": "https://media.beatapi.io/prompt-gallery/fable-5-2/5dfa0d32ee03bcc4aae37f9806df8df68832d411a83b6720fc84d55520bddab2.jpg",
+        "width": 1280,
+        "height": 704
+      }
+    ]
   }
 ]
