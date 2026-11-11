@@ -1,5 +1,9 @@
 # Bento website motion comparison
 
+<a href="https://media.beatapi.io/prompt-gallery/fable-5-2/0cc1c6fa525c66153cff2abed8069ca414da9db22cee87c7f31f0c11e86cf31c.webm"><img src="https://media.beatapi.io/prompt-gallery/fable-5-2/3b226fb754e9644847633f5f63551c3f5f12bc47ce70bc39c0157c86f166ff0e.jpg" alt="Bento website motion comparison" width="700" /></a>
+
+[▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/0cc1c6fa525c66153cff2abed8069ca414da9db22cee87c7f31f0c11e86cf31c.webm)
+
 A website comparison covering steam, scroll transitions and logo animation, using the same inputs.
 
 便当网站动效对比：使用相同输入，对比便当蒸汽、滚动过渡与标志动画等网页动效。
@@ -13,4 +17,4 @@ A website comparison covering steam, scroll transitions and logo animation, usin
 - Source clip duration: 14.9 seconds.
 - Tools mentioned: Three.js.
 - Prompts and project files: see the original post for available instructions; a complete reproducibility package is not verified.
-- Media stays at source and is not redistributed under this repository’s license.
+- WebM copies are hosted by BeatAPI. Third-party media is not covered by this repository’s MIT license.

@@ -1,5 +1,9 @@
 # FBPlot software launch film
 
+<a href="https://media.beatapi.io/prompt-gallery/fable-5-2/2f32101509c86e308cbbf7ee403caef47d71628fe2b63695ebdd7949a1b2454f.webm"><img src="https://media.beatapi.io/prompt-gallery/fable-5-2/0cad56fab1d973c38929251539212800b19e69c48793a25e37309c0e7394ec3b.jpg" alt="FBPlot software launch film" width="700" /></a>
+
+[▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/2f32101509c86e308cbbf7ee403caef47d71628fe2b63695ebdd7949a1b2454f.webm)
+
 [al_maxgo](https://x.com/al_maxgo/status/2119891197317591040) · [Watch original video](https://x.com/al_maxgo/status/2119891197317591040)
 
 The author reports a codebase-driven trailer with chart rendering, HTML animation and a synthesized soundtrack.
@@ -16,4 +20,4 @@ The author reports a codebase-driven trailer with chart rendering, HTML animatio
 
 ## Rights
 
-Watch the video at its original source. This repository does not redistribute the video, soundtrack or project assets. Third-party works retain their own rights.
+Videos are delivered as WebM copies hosted by BeatAPI. Third-party works retain their own rights; the author link opens the original post.

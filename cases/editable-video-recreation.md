@@ -1,5 +1,9 @@
 # Editable video recreation with HyperFrames
 
+<a href="https://media.beatapi.io/prompt-gallery/fable-5-2/fa772ba8d7fabccbe8079c8f13a04566cf130d258c2217cb074929ca29ca120c.webm"><img src="https://media.beatapi.io/prompt-gallery/fable-5-2/adfd0d279135fa79f9ed3347d928600ddffb20b510efc4bc38fbf24cc52ea31d.jpg" alt="Editable video recreation with HyperFrames" width="700" /></a>
+
+[▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/fa772ba8d7fabccbe8079c8f13a04566cf130d258c2217cb074929ca29ca120c.webm)
+
 [Miguel07Code](https://x.com/Miguel07Code/status/2119904748900167836) · [Watch original video](https://x.com/Miguel07Code/status/2119904748900167836)
 
 A reference clip compared with an editable HyperFrames recreation; the author identifies the reverse-any-video skill.
@@ -16,4 +20,4 @@ A reference clip compared with an editable HyperFrames recreation; the author id
 
 ## Rights
 
-Watch the video at its original source. This repository does not redistribute the video, soundtrack or project assets. Third-party works retain their own rights.
+Videos are delivered as WebM copies hosted by BeatAPI. Third-party works retain their own rights; the author link opens the original post.

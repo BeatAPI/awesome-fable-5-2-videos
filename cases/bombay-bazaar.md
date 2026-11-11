@@ -1,5 +1,9 @@
 # Bombay bazaar camera sequence
 
+<a href="https://media.beatapi.io/prompt-gallery/fable-5-2/060ebb282e7907c1b88ca587b1948b81a083ff1259ab8c53880a872e8210dd87.webm"><img src="https://media.beatapi.io/prompt-gallery/fable-5-2/9e1afc70c743f8a249701329d1275316d502a1b1bbe8800886d699dd22e4a036.jpg" alt="Bombay bazaar camera sequence" width="700" /></a>
+
+[▶ Play video](https://media.beatapi.io/prompt-gallery/fable-5-2/060ebb282e7907c1b88ca587b1948b81a083ff1259ab8c53880a872e8210dd87.webm)
+
 A six-shot market sequence attributed to Fable 5.2 and Three.js by the publishing team.
 
 孟买集市镜头组：发布团队说明由 Fable 5.2 与 Three.js 制作的六镜头市场场景。
@@ -13,4 +17,4 @@ A six-shot market sequence attributed to Fable 5.2 and Three.js by the publishin
 - Source clip duration: 21.5 seconds.
 - Tools mentioned: Three.js.
 - Prompts and project files: see the original post for available instructions; a complete reproducibility package is not verified.
-- Media stays at source and is not redistributed under this repository’s license.
+- WebM copies are hosted by BeatAPI. Third-party media is not covered by this repository’s MIT license.
